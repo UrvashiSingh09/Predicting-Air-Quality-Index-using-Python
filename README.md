@@ -64,8 +64,12 @@ Clean visualizations and plots
 
 Easily extendable to real-time AQI dashboards
 
+---
+
 🤝 Contributing
 Contributions are welcome! Feel free to fork the repo, submit pull requests, or report issues.
+
+---
 
 🧑‍💻 Author
 Urvashi Singh
