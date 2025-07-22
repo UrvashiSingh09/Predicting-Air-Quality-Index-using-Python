@@ -24,29 +24,44 @@ This project predicts the Air Quality Index (AQI) based on pollutant levels usin
 | 1.0          | 50               | 40             | 70               | 135       |
 
 ---
+
 📈 Output
+
 Mean Absolute Error (MAE)
+
 Mean Squared Error (MSE)
+
 Root Mean Squared Error (RMSE)
+
 R² Score
+
 Visualization of actual vs predicted AQI values
 
 ---
 
 📦 Requirements
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 scikit-learn
 (Install using pip install -r requirements.txt)
 
 ---
 
 ✅ Features
+
 Predicts AQI based on pollutant levels
+
 Random Forest Regressor with evaluation
+
 Clean visualizations and plots
+
 Easily extendable to real-time AQI dashboards
 
 🤝 Contributing
